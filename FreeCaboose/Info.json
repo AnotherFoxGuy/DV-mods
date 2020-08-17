@@ -1,0 +1,7 @@
+{
+  "Id": "FreeCaboose",
+  "DisplayName": "Spawn the Caboose for free",
+  "Author": "AnotherFoxGuy",
+  "Version": "1.0.0",
+  "EntryMethod": "FreeCaboose.Main.Load"
+}
